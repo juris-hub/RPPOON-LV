@@ -4,7 +4,7 @@ namespace Lv1_RPPOON
 {
     class zad1
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.WriteLine("Hello World!");
         }
